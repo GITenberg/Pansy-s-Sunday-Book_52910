@@ -1,5 +1,8 @@
 _repo: Pansy-s-Sunday-Book_52910
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52910-h/images/cover_back.jpg
 creator:
   editor:
     agent_name: Pansy
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4482
     wikipedia: http://en.wikipedia.org/wiki/Isabella_Macdonald_Alden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52910#Pansy-s-Sunday-Book
 gutenberg_issued: '2016-08-28'
 gutenberg_type: Text
 identifiers:
